@@ -1,0 +1,24 @@
+[
+    {
+        "nombre": "Carlos",
+        "grupo": "TII03A",
+        "carrera": "Ingeniero de Software",
+        "habilidades": ["JavaScript", "React", "Node.js"],
+        "imagen": "carlos.png"
+    },
+    {
+        "nombre": "María",
+        "grupo": "TII03B",  
+        "carrera": "Diseñadora Gráfica",
+        "habilidades": ["Photoshop", "Illustrator", "UI/UX"],
+        "imagen": "maria.png"
+    },
+    {
+        "nombre": "Juan",
+        "grupo": "TII03A",
+        "carrera": "Desarrollador Backend",
+        "habilidades": ["Python", "Django", "SQL"],
+        "imagen": "juan.png"
+    }
+
+]
